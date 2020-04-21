@@ -2,9 +2,6 @@
 可以自由定制显示的天气脚本,想怎样都随你,轻松修改轻松查看
 https://github.com/sazs34/TaskConfig/blob/master/assets/weather_pro.md
  */
-// 家gps坐标 38.309192, 109.763846    
-// 交大坐标  34.244769, 108.981626
-
 let config = {
     darksky_api: "440c5d2e99f341447a15a615492f3fa7", //从 上申请key填入即可
     aqicn_api: "5dc12dc6b3459cb49fc9079a5d0f4ebd481565c5", //从 上申请key填入即可
